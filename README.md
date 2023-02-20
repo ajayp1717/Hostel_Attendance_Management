@@ -6,7 +6,7 @@ Created using MERN Stack with Redux
 
 ```
 npm install
-cd frontend && npm install
+cd Reactapp_frontend && npm install
 ```
 
 ### Configure .env file
